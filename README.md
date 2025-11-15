@@ -5,7 +5,7 @@ This repository provides a compact pipeline to generate **noise–clean image pa
 The objective is to provide high-quality paired data for downstream tasks such as **SCUNet/Restormer training**, **UDC image restoration**, and general denoising research.
 
 ## Usage
-Place clean images in:
+
 
 Run: python3 oil.py
 
